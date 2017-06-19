@@ -2,7 +2,15 @@
 
 Файл отформатирован при помощи Markdown - лучше всего просматривать текстовом редакторе с поддержкой этого типа форматирования.
 
-
+- [Данные по голосованию по реновации пятиэтажек в Москве (2017)](#2017)
+  - [Описание структуры папок и данных](#)
+    - [Содержимое папки processed_data](#processed_data)
+      - [individual_votes.csv.gz -> individual_votes.csv](#individual_votescsvgz-individual_votescsv)
+      - [vote_dynamics_by_building_full.csv.gz -> vote_dynamics_by_building_full.csv](#vote_dynamics_by_building_fullcsvgz-vote_dynamics_by_building_fullcsv)
+      - [vote_dynamics_by_building.csv.gz -> vote_dynamics_by_building.csv](#vote_dynamics_by_buildingcsvgz-vote_dynamics_by_buildingcsv)
+    - [Содержимое папки raw_data](#raw_data)
+      - [raw_snapshot_data_geojson.7z](#raw_snapshot_data_geojson7z)
+      - [raw_individual_vote_results_html.7z](#raw_individual_vote_results_html7z)
 
 ## Описание структуры папок и данных
 
